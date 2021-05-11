@@ -1,3 +1,3 @@
 # ICON_ANIMATION
 
-fontawsome iicon animation using javascript callback functions(setTime out and set Interval) 
+fontawsome icon animation using javascript callback functions(setTimeout and setInterval) 
